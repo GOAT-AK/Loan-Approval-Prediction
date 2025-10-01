@@ -119,14 +119,13 @@ To begin utilizing this application, follow these steps:
    ```bash
    streamlit run Script_loan.py
 
-
-
    
 # Sample_Run
 
 
 * Pic 1
 
+<img width="1131" height="718" alt="Image" src="https://github.com/user-attachments/assets/3cfde266-d4d2-45c7-83dd-8072b2881298" />
 
 
 
@@ -135,6 +134,6 @@ To begin utilizing this application, follow these steps:
 
 * Pic 2
 
-
+<img width="1131" height="662" alt="Image" src="https://github.com/user-attachments/assets/a74d3cc0-3e2c-4df1-9746-63cfa38d397d" />
    
 
