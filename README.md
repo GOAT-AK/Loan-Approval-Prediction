@@ -125,7 +125,7 @@ To begin utilizing this application, follow these steps:
 
 * Pic 1
 
-<img width="1131" height="718" alt="Image" src="https://github.com/user-attachments/assets/3cfde266-d4d2-45c7-83dd-8072b2881298" />
+<img width="1131" height="718" alt="Image" src="https://github.com/user-attachments/assets/438dfda7-aef0-446d-a181-aaff233764a6" />
 
 
 
