@@ -22,7 +22,7 @@ This project builds a machine learning classification model that uses applicants
 
 # DataSet
 
-The dataset used in this project is the [Loan-Approval-Prediction-Dataset]([https://www.kaggle.com/datasets/lainguyn123/student-performance-factors](https://www.kaggle.com/datasets/architsharma01/loan-approval-prediction-dataset)) from Kaggle. It includes key applicant information such as ***income, dependents, CIBIL score, loan amount, term, and asset values.***
+The dataset used in this project is the [Loan-Approval-Prediction-Dataset](https://www.kaggle.com/datasets/architsharma01/loan-approval-prediction-dataset) from Kaggle. It includes key applicant information such as ***income, dependents, CIBIL score, loan amount, term, and asset values.***
 
 
 ### Column Descriptions
